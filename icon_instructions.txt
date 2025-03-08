@@ -1,0 +1,12 @@
+To create an icon for the SANS Timer application:
+
+1. You can use any image editor to create a 256x256 pixel image
+2. Save it as "timer_icon.ico" in the same directory as sans_timer.py
+3. If you don't have an icon editor, you can convert a PNG to ICO using online tools like:
+   - https://convertico.com/
+   - https://icoconvert.com/
+   - https://www.pngtoico.com/
+
+A simple clock or timer icon would be appropriate for this application.
+
+If you don't create a custom icon, the executable will use the default PyInstaller icon. 

@@ -1,0 +1,29 @@
+# PyInstaller build directories
+build/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary build directories
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Python virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log 
